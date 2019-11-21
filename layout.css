@@ -1,0 +1,15 @@
+
+div {
+
+  width: 300px; 
+}
+
+p {
+
+    font-family: Roboto Slab;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #f8e71c;
+    line-height: 1.5;
+    margin: 10px;
+}

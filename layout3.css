@@ -1,0 +1,11 @@
+div {
+
+    font-size: 28px;
+    line-height: 0.96;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid #000000;
+    background: white;
+}

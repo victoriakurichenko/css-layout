@@ -1,0 +1,27 @@
+
+div {
+
+  width: 260px;
+  background-color: #ffb6c1;
+  margin: 10px;
+  padding: 10px;
+}
+
+p {
+
+  height:180px;
+  font-family: Roboto Slab;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #f8e71c;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    border: 10px solid #f5a623;;
+  
+}
+
+.bottom {
+
+margin-bottom: 0px;
+}
+
